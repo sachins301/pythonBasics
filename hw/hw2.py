@@ -43,12 +43,12 @@ else:
 # Exercise #2.4: (2.5 points)
 start = int(input("Enter a starting integer: "))
 end = int(input("Enter an ending integer: "))
-oddeven = input("Enter odd or even: ")
+oddeven = input("Enter odd or even: ").strip().lower()
 
 if oddeven == "odd":
     if start % 2 == 0:
         start += 1
-else:
+elif oddeven == "even":
     if start % 2 != 0:
         start += 1
 

@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4eb0f70-7b7d-4115-beb8-3fe421d208a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week2codealong1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week2codealong2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week2codealong3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week2exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week2exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week2exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/hw2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw/hw2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw/hw2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +47,7 @@
     "Python.weel1codealong2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/sachi/OneDrive - University of Utah/Sem3/IS6495 Python/pythonProject"
   }
 }]]></component>
