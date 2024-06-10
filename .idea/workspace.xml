@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4eb0f70-7b7d-4115-beb8-3fe421d208a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codealong/week3codealong1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week3codealong2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week3codealong3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week3exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week3exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week3exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week4codealong1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week4codealong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week4exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week4exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/hw4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +42,7 @@
     "Python.hw1.executor": "Run",
     "Python.hw2.executor": "Run",
     "Python.hw3.executor": "Run",
+    "Python.hw4.executor": "Run",
     "Python.week1codealong1.executor": "Run",
     "Python.week2codealong1.executor": "Run",
     "Python.week2codealong2.executor": "Run",
@@ -57,11 +56,15 @@
     "Python.week3exercise1.executor": "Run",
     "Python.week3exercise2.executor": "Run",
     "Python.week3exercise3.executor": "Run",
+    "Python.week4codealong1.executor": "Run",
+    "Python.week4codealong2.executor": "Run",
+    "Python.week4exercise1.executor": "Run",
+    "Python.week4exercise2.executor": "Run",
     "Python.weel1codealong2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sachi/OneDrive - University of Utah/Sem3/IS6495 Python/pythonProject"
+    "last_opened_file_path": "D:/Projects/PDFProcessing"
   }
 }]]></component>
   <component name="RunManager">
@@ -70,6 +73,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw" />
       <option name="IS_MODULE_SDK" value="true" />
