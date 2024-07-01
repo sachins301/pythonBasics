@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4eb0f70-7b7d-4115-beb8-3fe421d208a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codealong/week6codealong1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week6codealong2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week6codealong3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week6exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week6exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week6exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/hw6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week7codealong1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week7codealong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week7codealong3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week7exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week7exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week7exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/hw7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +49,7 @@
     "Python.hw4.executor": "Run",
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
+    "Python.hw7.executor": "Run",
     "Python.week1codealong1.executor": "Run",
     "Python.week2codealong1.executor": "Run",
     "Python.week2codealong2.executor": "Run",
@@ -75,6 +78,12 @@
     "Python.week6exercise1.executor": "Run",
     "Python.week6exercise2.executor": "Run",
     "Python.week6exercise3.executor": "Run",
+    "Python.week7codealong1.executor": "Run",
+    "Python.week7codealong2.executor": "Run",
+    "Python.week7codealong3.executor": "Run",
+    "Python.week7exercise1.executor": "Run",
+    "Python.week7exercise2.executor": "Run",
+    "Python.week7exercise3.executor": "Run",
     "Python.weel1codealong2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -110,6 +119,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -126,8 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw6" />
         <item itemvalue="Python.hw3" />
+        <item itemvalue="Python.hw6" />
       </list>
     </recent_temporary>
   </component>
