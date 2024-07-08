@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4eb0f70-7b7d-4115-beb8-3fe421d208a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codealong/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week7codealong1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week7codealong2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codealong/week7codealong3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week7exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week7exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week7exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/hw7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week8codealong1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week8/Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week8/db_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week8/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week8/tracks_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week8exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/week8/DBbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/week8/hw8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/week8/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,9 @@
     "Python.hw5.executor": "Run",
     "Python.hw6.executor": "Run",
     "Python.hw7.executor": "Run",
+    "Python.hw8.executor": "Run",
+    "Python.tests.executor": "Run",
+    "Python.tracks_oop.executor": "Run",
     "Python.week1codealong1.executor": "Run",
     "Python.week2codealong1.executor": "Run",
     "Python.week2codealong2.executor": "Run",
@@ -84,13 +87,24 @@
     "Python.week7exercise1.executor": "Run",
     "Python.week7exercise2.executor": "Run",
     "Python.week7exercise3.executor": "Run",
+    "Python.week8codealong1.executor": "Run",
+    "Python.week8exercise1.executor": "Run",
     "Python.weel1codealong2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sachi/OneDrive - University of Utah/Sem3/IS6495 Python/pythonProject"
+    "last_opened_file_path": "C:/Users/sachi/OneDrive - University of Utah/Sem3/IS6495 Python/pythonProject/hw/week8"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sachi\OneDrive - University of Utah\Sem3\IS6495 Python\pythonProject\hw\week8" />
+      <recent name="C:\Users\sachi\OneDrive - University of Utah\Sem3\IS6495 Python\pythonProject\exercise\week8" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sachi\OneDrive - University of Utah\Sem3\IS6495 Python\pythonProject\hw\week8" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="hw3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
