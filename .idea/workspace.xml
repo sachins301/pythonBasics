@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4eb0f70-7b7d-4115-beb8-3fe421d208a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codealong/week8codealong1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week8/Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week8/db_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week8/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week8/tracks_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/week8exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/week8/DBbase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/week8/hw8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/week8/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week9codealong1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week9codealong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codealong/week9codealong3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/week9exercise1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,62 +35,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.helloworld.executor": "Run",
-    "Python.hw1.executor": "Run",
-    "Python.hw2.executor": "Run",
-    "Python.hw3.executor": "Run",
-    "Python.hw4.executor": "Run",
-    "Python.hw5.executor": "Run",
-    "Python.hw6.executor": "Run",
-    "Python.hw7.executor": "Run",
-    "Python.hw8.executor": "Run",
-    "Python.tests.executor": "Run",
-    "Python.tracks_oop.executor": "Run",
-    "Python.week1codealong1.executor": "Run",
-    "Python.week2codealong1.executor": "Run",
-    "Python.week2codealong2.executor": "Run",
-    "Python.week2codealong3.executor": "Run",
-    "Python.week2exercise1.executor": "Run",
-    "Python.week2exercise2.executor": "Run",
-    "Python.week2exercise3.executor": "Run",
-    "Python.week3codealong1.executor": "Run",
-    "Python.week3codealong2.executor": "Run",
-    "Python.week3codealong3.executor": "Run",
-    "Python.week3exercise1.executor": "Run",
-    "Python.week3exercise2.executor": "Run",
-    "Python.week3exercise3.executor": "Run",
-    "Python.week4codealong1.executor": "Run",
-    "Python.week4codealong2.executor": "Run",
-    "Python.week4exercise1.executor": "Run",
-    "Python.week4exercise2.executor": "Run",
-    "Python.week5codealong2.executor": "Run",
-    "Python.week5codealong3.executor": "Run",
-    "Python.week5exercise1.executor": "Run",
-    "Python.week5exercise2.executor": "Run",
-    "Python.week5exercisedebugger.executor": "Run",
-    "Python.week6codealong1.executor": "Run",
-    "Python.week6codealong2.executor": "Run",
-    "Python.week6codealong3.executor": "Run",
-    "Python.week6exercise1.executor": "Run",
-    "Python.week6exercise2.executor": "Run",
-    "Python.week6exercise3.executor": "Run",
-    "Python.week7codealong1.executor": "Run",
-    "Python.week7codealong2.executor": "Run",
-    "Python.week7codealong3.executor": "Run",
-    "Python.week7exercise1.executor": "Run",
-    "Python.week7exercise2.executor": "Run",
-    "Python.week7exercise3.executor": "Run",
-    "Python.week8codealong1.executor": "Run",
-    "Python.week8exercise1.executor": "Run",
-    "Python.weel1codealong2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/sachi/OneDrive - University of Utah/Sem3/IS6495 Python/pythonProject/hw/week8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tracks_oop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week1codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week2codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week2codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week2codealong3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week2exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week2exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week2exercise3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week3codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week3codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week3codealong3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week3exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week3exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week3exercise3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week4codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week4codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week4exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week4exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week5codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week5codealong3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week5exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week5exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week5exercisedebugger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week6codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week6codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week6codealong3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week6exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week6exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week6exercise3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week7codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week7codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week7codealong3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week7exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week7exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week7exercise3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week8codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week8exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week9codealong1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week9codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week9codealong3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week9exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weel1codealong2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/CapstoneProject-Outkits&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sachi\OneDrive - University of Utah\Sem3\IS6495 Python\pythonProject\hw\week8" />
@@ -105,7 +104,7 @@
       <recent name="C:\Users\sachi\OneDrive - University of Utah\Sem3\IS6495 Python\pythonProject\hw\week8" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.hw3">
     <configuration name="hw3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
